@@ -17,6 +17,22 @@
 <br>
 
 <h2 align="right">تماس با من:📞</h2>
-<a href="#"><img align="left" alt="instagram" src="https://github.com/HamedSae/HamedSae/blob/main/icons8-instagram-48.png?raw=true"></a>
+<a href="#"><img align="left" alt="instagram" width="50px" height="50" src="https://github.com/HamedSae/HamedSae/blob/main/icons8-instagram-48.png?raw=true"></a>
+<a href="#"><img align="left" alt="instagram" width="50px" height="50" src="https://github.com/HamedSae/HamedSae/blob/main/icons8-telegram-48.png?raw=true"></a>
+
+<br>
+
+<h2 align="right">الان مشغول به چه کارهایی هستم</h2>
+
+ <h4 align="right">⭐ توسعه برنامه منطقه امن</h4>
+ <h4 align="right">⭐ یادگیری بیشتر فلاتر</h4>
+ <h4 align="right">⭐ توسعه سایت threejs</h4>
+
+<br>
+
+<h2 align="right">الان دارم روی اینها کار می کنم💡</h2>
+<h3 align="left">🍃Flutter | 80%</h3> <img height = "25px" width="50%" src="https://github.com/HamedSae/HamedSae/blob/main/Progressbar100.png?raw=true">
+
+<h3 align="left">🍃Kotlin | 40%</h3> <img height = "25px" width="30%" src="https://github.com/HamedSae/HamedSae/blob/main/Progressbar100.png?raw=true">
 
 
